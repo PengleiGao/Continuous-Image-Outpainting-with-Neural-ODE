@@ -3,7 +3,7 @@ official implementation of the paper Continuous Image Outpainting with Neural OD
 
  To run the code as follows:
  
- python run.py 
+ python main.py --name build
  
  
  To train the model on different datasets, you can edit the code in the main.py of --name  and change the root of the dataset.
